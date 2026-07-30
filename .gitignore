@@ -1,0 +1,30 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+
+# Generated model objects
+outputs/models/*.rds
+outputs/models/*.RData
+
+# Temporary output
+*.html
+*.log
+*.tmp
+
+# Quarto-generated folders
+analysis/*_files/
+analysis/.quarto/
+
+# renv local library
+renv/library/
+renv/staging/
+renv/python/
