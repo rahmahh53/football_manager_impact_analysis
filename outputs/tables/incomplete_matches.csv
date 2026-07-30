@@ -1,0 +1,164 @@
+Season,Date,HomeTeam,AwayTeam,present_team,present_side,missing_team,missing_side,present_manager
+2014/2015,2015-03-04,QPR,Arsenal,Arsenal,away,QPR,home,ARSENE WENGER
+2016/2017,2016-10-22,Arsenal,Middlesbrough,Arsenal,home,Middlesbrough,away,ARSENE WENGER
+2016/2017,2017-04-17,Middlesbrough,Arsenal,Arsenal,away,Middlesbrough,home,ARSENE WENGER
+2021/2022,2021-09-11,Arsenal,Norwich City,Arsenal,home,Norwich City,away,MIKEL ARTETA
+2021/2022,2021-10-22,Arsenal,Aston Villa,Arsenal,home,Aston Villa,away,MIKEL ARTETA
+2019/2020,2019-09-22,Arsenal,Aston Villa,Aston Villa,away,Arsenal,home,KEVIN MACDONALD
+2019/2020,2020-02-01,Bournemouth,Aston Villa,Aston Villa,away,Bournemouth,home,KEVIN MACDONALD
+2014/2015,2015-04-07,Aston Villa,QPR,Aston Villa,home,QPR,away,REMI GARDE
+2015/2016,2016-04-09,Aston Villa,Bournemouth,Bournemouth,away,Aston Villa,home,EDDIE HOWE
+2016/2017,2016-10-29,Middlesbrough,Bournemouth,Bournemouth,away,Middlesbrough,home,EDDIE HOWE
+2016/2017,2017-04-22,Bournemouth,Middlesbrough,Bournemouth,home,Middlesbrough,away,EDDIE HOWE
+2018/2019,2018-11-25,Bournemouth,Arsenal,Bournemouth,home,Arsenal,away,EDDIE HOWE
+2018/2019,2019-02-27,Arsenal,Bournemouth,Bournemouth,away,Arsenal,home,EDDIE HOWE
+2019/2020,2019-10-06,Arsenal,Bournemouth,Bournemouth,away,Arsenal,home,EDDIE HOWE
+2021/2022,2021-08-28,Aston Villa,Brentford,Brentford,away,Aston Villa,home,THOMAS FRANK
+2021/2022,2021-11-06,Brentford,Norwich City,Brentford,home,Norwich City,away,THOMAS FRANK
+2018/2019,2018-12-26,Brighton,Arsenal,Brighton,home,Arsenal,away,CHRIS HUGHTON
+2018/2019,2019-05-05,Arsenal,Brighton,Brighton,away,Arsenal,home,CHRIS HUGHTON
+2019/2020,2019-12-05,Arsenal,Brighton,Brighton,away,Arsenal,home,GRAHAM POTTER
+2019/2020,2020-01-21,Bournemouth,Brighton,Brighton,away,Bournemouth,home,GRAHAM POTTER
+2021/2022,2021-10-16,Norwich City,Brighton,Brighton,away,Norwich City,home,GRAHAM POTTER
+2016/2017,2016-12-26,Burnley,Middlesbrough,Burnley,home,Middlesbrough,away,SEAN DYCHE
+2016/2017,2017-04-08,Middlesbrough,Burnley,Burnley,away,Middlesbrough,home,SEAN DYCHE
+2018/2019,2018-12-22,Arsenal,Burnley,Burnley,away,Arsenal,home,SEAN DYCHE
+2018/2019,2019-05-12,Burnley,Arsenal,Burnley,home,Arsenal,away,SEAN DYCHE
+2019/2020,2019-08-17,Arsenal,Burnley,Burnley,away,Arsenal,home,SEAN DYCHE
+2019/2020,2020-02-22,Burnley,Bournemouth,Burnley,home,Bournemouth,away,SEAN DYCHE
+2021/2022,2021-10-02,Burnley,Norwich City,Burnley,home,Norwich City,away,SEAN DYCHE
+2018/2019,2018-09-02,Cardiff City,Arsenal,Cardiff City,home,Arsenal,away,NEIL WARNOCK
+2018/2019,2019-01-29,Arsenal,Cardiff City,Cardiff City,away,Arsenal,home,NEIL WARNOCK
+2015/2016,2016-04-02,Aston Villa,Chelsea,Chelsea,away,Aston Villa,home,ANTONIO CONTE
+2016/2017,2016-11-20,Middlesbrough,Chelsea,Chelsea,away,Middlesbrough,home,ANTONIO CONTE
+2016/2017,2017-05-08,Chelsea,Middlesbrough,Chelsea,home,Middlesbrough,away,ANTONIO CONTE
+2019/2020,2020-02-29,Bournemouth,Chelsea,Chelsea,away,Bournemouth,home,FRANK LAMPARD
+2014/2015,2015-04-12,QPR,Chelsea,Chelsea,away,QPR,home,JOSE MOURINHO
+2014/2015,2015-05-10,Chelsea,Liverpool,Chelsea,home,Liverpool,away,JOSE MOURINHO
+2018/2019,2018-08-18,Chelsea,Arsenal,Chelsea,home,Arsenal,away,MAURIZIO SARRI
+2018/2019,2019-01-19,Arsenal,Chelsea,Chelsea,away,Arsenal,home,MAURIZIO SARRI
+2021/2022,2021-09-11,Chelsea,Aston Villa,Chelsea,home,Aston Villa,away,THOMAS TUCHEL
+2021/2022,2021-10-23,Chelsea,Norwich City,Chelsea,home,Norwich City,away,THOMAS TUCHEL
+2014/2015,2015-03-14,Crystal Palace,QPR,Crystal Palace,home,QPR,away,ALAN PARDEW
+2014/2015,2015-05-16,Liverpool,Crystal Palace,Crystal Palace,away,Liverpool,home,ALAN PARDEW
+2015/2016,2015-08-08,Norwich City,Crystal Palace,Crystal Palace,away,Norwich City,home,ALAN PARDEW
+2016/2017,2016-09-10,Middlesbrough,Crystal Palace,Crystal Palace,away,Middlesbrough,home,ALAN PARDEW
+2016/2017,2017-02-25,Crystal Palace,Middlesbrough,Crystal Palace,home,Middlesbrough,away,FRANK DE BOER
+2018/2019,2018-10-28,Crystal Palace,Arsenal,Crystal Palace,home,Arsenal,away,ROY HODGSON
+2018/2019,2019-04-21,Arsenal,Crystal Palace,Crystal Palace,away,Arsenal,home,ROY HODGSON
+2019/2020,2019-10-27,Arsenal,Crystal Palace,Crystal Palace,away,Arsenal,home,ROY HODGSON
+2019/2020,2020-06-20,Bournemouth,Crystal Palace,Crystal Palace,away,Bournemouth,home,ROY HODGSON
+2019/2020,2020-07-26,Everton,Bournemouth,Everton,home,Bournemouth,away,CARLO ANCELOTTI
+2016/2017,2017-02-11,Middlesbrough,Everton,Everton,away,Middlesbrough,home,DAVID UNSWORTH
+2019/2020,2019-12-21,Everton,Arsenal,Everton,home,Arsenal,away,DUNCAN FERGUSON
+2022/2023,2022-08-06,Everton,Chelsea,Everton,home,Chelsea,away,FRANK LAMPARD
+2018/2019,2018-09-23,Arsenal,Everton,Everton,away,Arsenal,home,MARCO SILVA
+2018/2019,2019-04-07,Everton,Arsenal,Everton,home,Arsenal,away,MARCO SILVA
+2021/2022,2021-09-18,Aston Villa,Everton,Everton,away,Aston Villa,home,RAFAEL BENITEZ
+2021/2022,2021-09-25,Everton,Norwich City,Everton,home,Norwich City,away,RAFAEL BENITEZ
+2014/2015,2015-03-22,QPR,Everton,Everton,away,QPR,home,ROBERTO MARTINEZ
+2015/2016,2015-09-19,Swansea City,Everton,Everton,away,Swansea City,home,ROBERTO MARTINEZ
+2016/2017,2016-09-17,Everton,Middlesbrough,Everton,home,Middlesbrough,away,RONALD KOEMAN
+2018/2019,2019-01-01,Arsenal,Fulham,Fulham,away,Arsenal,home,CLAUDIO RANIERI
+2018/2019,2018-10-07,Fulham,Arsenal,Fulham,home,Arsenal,away,SLAVISA JOKANOVIC
+2018/2019,2018-12-08,Arsenal,Huddersfield,Huddersfield,away,Arsenal,home,DAVID WAGNER
+2018/2019,2019-02-09,Huddersfield,Arsenal,Huddersfield,home,Arsenal,away,JAN SIEWERT
+2016/2017,2016-12-05,Middlesbrough,Hull City,Hull City,away,Middlesbrough,home,MIKE PHELAN
+2014/2015,2015-04-28,Hull City,Liverpool,Hull City,home,Liverpool,away,STEVE BRUCE
+2016/2017,2017-04-05,Hull City,Middlesbrough,Hull City,home,Middlesbrough,away,STEVE BRUCE
+2021/2022,2021-10-31,Norwich City,Leeds United,Leeds United,away,Norwich City,home,MARCELO BIELSA
+2018/2019,2019-04-28,Leicester City,Arsenal,Leicester City,home,Arsenal,away,BRENDAN RODGERS
+2019/2020,2019-11-09,Leicester City,Arsenal,Leicester City,home,Arsenal,away,BRENDAN RODGERS
+2019/2020,2020-07-12,Bournemouth,Leicester City,Leicester City,away,Bournemouth,home,BRENDAN RODGERS
+2021/2022,2021-08-28,Norwich City,Leicester City,Leicester City,away,Norwich City,home,BRENDAN RODGERS
+2018/2019,2018-10-22,Arsenal,Leicester City,Leicester City,away,Arsenal,home,CLAUDE PUEL
+2014/2015,2015-05-24,Leicester City,QPR,Leicester City,home,QPR,away,CLAUDIO RANIERI
+2016/2017,2016-11-26,Leicester City,Middlesbrough,Leicester City,home,Middlesbrough,away,CLAUDIO RANIERI
+2016/2017,2017-01-02,Middlesbrough,Leicester City,Leicester City,away,Middlesbrough,home,CLAUDIO RANIERI
+2016/2017,2016-12-14,Middlesbrough,Liverpool,Liverpool,away,Middlesbrough,home,JURGEN KLOPP
+2016/2017,2017-05-21,Liverpool,Middlesbrough,Liverpool,home,Middlesbrough,away,JURGEN KLOPP
+2018/2019,2018-11-03,Arsenal,Liverpool,Liverpool,away,Arsenal,home,JURGEN KLOPP
+2018/2019,2018-12-29,Liverpool,Arsenal,Liverpool,home,Arsenal,away,JURGEN KLOPP
+2019/2020,2019-08-24,Liverpool,Arsenal,Liverpool,home,Arsenal,away,JURGEN KLOPP
+2019/2020,2020-03-07,Liverpool,Bournemouth,Liverpool,home,Bournemouth,away,JURGEN KLOPP
+2021/2022,2021-08-14,Norwich City,Liverpool,Liverpool,away,Norwich City,home,JURGEN KLOPP
+2014/2015,2015-05-10,Manchester City,QPR,Manchester City,home,QPR,away,MANUEL PELLEGRINI
+2016/2017,2016-11-05,Manchester City,Middlesbrough,Manchester City,home,Middlesbrough,away,PEP GUARDIOLA
+2016/2017,2017-04-30,Middlesbrough,Manchester City,Manchester City,away,Middlesbrough,home,PEP GUARDIOLA
+2018/2019,2018-08-12,Arsenal,Manchester City,Manchester City,away,Arsenal,home,PEP GUARDIOLA
+2018/2019,2019-02-03,Manchester City,Arsenal,Manchester City,home,Arsenal,away,PEP GUARDIOLA
+2019/2020,2019-12-15,Arsenal,Manchester City,Manchester City,away,Arsenal,home,PEP GUARDIOLA
+2019/2020,2020-07-15,Manchester City,Bournemouth,Manchester City,home,Bournemouth,away,PEP GUARDIOLA
+2021/2022,2021-08-21,Manchester City,Norwich City,Manchester City,home,Norwich City,away,PEP GUARDIOLA
+2022/2023,2022-08-07,Manchester Utd,Brighton,Manchester Utd,home,Brighton,away,ERIK TEN HAG
+2016/2017,2016-12-31,Manchester Utd,Middlesbrough,Manchester Utd,home,Middlesbrough,away,JOSE MOURINHO
+2016/2017,2017-03-19,Middlesbrough,Manchester Utd,Manchester Utd,away,Middlesbrough,home,JOSE MOURINHO
+2018/2019,2018-12-05,Manchester Utd,Arsenal,Manchester Utd,home,Arsenal,away,JOSE MOURINHO
+2018/2019,2019-03-10,Arsenal,Manchester Utd,Manchester Utd,away,Arsenal,home,OLE GUNNAR SOLSKJAER
+2019/2020,2019-09-30,Manchester Utd,Arsenal,Manchester Utd,home,Arsenal,away,OLE GUNNAR SOLSKJAER
+2019/2020,2020-07-04,Manchester Utd,Bournemouth,Manchester Utd,home,Bournemouth,away,OLE GUNNAR SOLSKJAER
+2021/2022,2021-09-25,Manchester Utd,Aston Villa,Manchester Utd,home,Aston Villa,away,RALF RANGNICK
+2021/2022,2021-08-21,Aston Villa,Newcastle Utd,Newcastle Utd,away,Aston Villa,home,EDDIE HOWE
+2014/2015,2015-04-13,Liverpool,Newcastle Utd,Newcastle Utd,away,Liverpool,home,JOHN CARVER
+2014/2015,2015-05-16,QPR,Newcastle Utd,Newcastle Utd,away,QPR,home,JOHN CARVER
+2018/2019,2018-09-15,Newcastle Utd,Arsenal,Newcastle Utd,home,Arsenal,away,RAFAEL BENITEZ
+2018/2019,2019-04-01,Arsenal,Newcastle Utd,Newcastle Utd,away,Arsenal,home,RAFAEL BENITEZ
+2019/2020,2019-08-11,Newcastle Utd,Arsenal,Newcastle Utd,home,Arsenal,away,STEVE BRUCE
+2019/2020,2020-07-01,Bournemouth,Newcastle Utd,Newcastle Utd,away,Bournemouth,home,STEVE BRUCE
+2019/2020,2019-12-01,Norwich City,Arsenal,Norwich City,home,Arsenal,away,DANIEL FARKE
+2019/2020,2020-01-18,Norwich City,Bournemouth,Norwich City,home,Bournemouth,away,DANIEL FARKE
+2019/2020,2019-10-21,Sheffield Utd,Arsenal,Sheffield Utd,home,Arsenal,away,CHRIS WILDER
+2019/2020,2020-02-09,Sheffield Utd,Bournemouth,Sheffield Utd,home,Bournemouth,away,CHRIS WILDER
+2016/2017,2016-12-11,Southampton,Middlesbrough,Southampton,home,Middlesbrough,away,CLAUDE PUEL
+2016/2017,2017-05-13,Middlesbrough,Southampton,Southampton,away,Middlesbrough,home,MAURICIO PELLEGRINO
+2018/2019,2018-12-16,Southampton,Arsenal,Southampton,home,Arsenal,away,RALPH HASENHUTTL
+2018/2019,2019-02-24,Arsenal,Southampton,Southampton,away,Arsenal,home,RALPH HASENHUTTL
+2019/2020,2019-11-23,Arsenal,Southampton,Southampton,away,Arsenal,home,RALPH HASENHUTTL
+2019/2020,2020-07-19,Bournemouth,Southampton,Southampton,away,Bournemouth,home,RALPH HASENHUTTL
+2021/2022,2021-11-05,Southampton,Aston Villa,Southampton,home,Aston Villa,away,RALPH HASENHUTTL
+2015/2016,2015-08-30,Southampton,Norwich City,Southampton,home,Norwich City,away,RONALD KOEMAN
+2015/2016,2015-09-26,Southampton,Swansea City,Southampton,home,Swansea City,away,RONALD KOEMAN
+2014/2015,2015-05-24,Stoke City,Liverpool,Stoke City,home,Liverpool,away,MARK HUGHES
+2015/2016,2015-08-09,Stoke City,Liverpool,Stoke City,home,Liverpool,away,MARK HUGHES
+2015/2016,2015-08-22,Norwich City,Stoke City,Stoke City,away,Norwich City,home,MARK HUGHES
+2016/2017,2016-08-13,Middlesbrough,Stoke City,Stoke City,away,Middlesbrough,home,MARK HUGHES
+2016/2017,2017-03-04,Stoke City,Middlesbrough,Stoke City,home,Middlesbrough,away,MARK HUGHES
+2016/2017,2016-08-21,Sunderland,Middlesbrough,Sunderland,home,Middlesbrough,away,DAVID MOYES
+2016/2017,2017-04-26,Middlesbrough,Sunderland,Sunderland,away,Middlesbrough,home,DAVID MOYES
+2015/2016,2015-08-15,Sunderland,Norwich City,Sunderland,home,Norwich City,away,DICK ADVOCAAT
+2015/2016,2015-12-19,Chelsea,Sunderland,Sunderland,away,Chelsea,home,SAM ALLARDYCE
+2016/2017,2016-12-17,Middlesbrough,Swansea City,Swansea City,away,Middlesbrough,home,BOB BRADLEY
+2016/2017,2017-04-02,Swansea City,Middlesbrough,Swansea City,home,Middlesbrough,away,PAUL CLEMENT
+2019/2020,2020-07-09,Bournemouth,Tottenham,Tottenham,away,Bournemouth,home,JOSE MOURINHO
+2014/2015,2015-03-07,QPR,Tottenham,Tottenham,away,QPR,home,MAURICIO POCHETTINO
+2015/2016,2015-10-04,Swansea City,Tottenham,Tottenham,away,Swansea City,home,MAURICIO POCHETTINO
+2016/2017,2016-09-24,Middlesbrough,Tottenham,Tottenham,away,Middlesbrough,home,MAURICIO POCHETTINO
+2016/2017,2017-02-04,Tottenham,Middlesbrough,Tottenham,home,Middlesbrough,away,MAURICIO POCHETTINO
+2018/2019,2018-12-02,Arsenal,Tottenham,Tottenham,away,Arsenal,home,MAURICIO POCHETTINO
+2018/2019,2019-03-02,Tottenham,Arsenal,Tottenham,home,Arsenal,away,MAURICIO POCHETTINO
+2019/2020,2019-09-01,Arsenal,Tottenham,Tottenham,away,Arsenal,home,MAURICIO POCHETTINO
+2021/2022,2021-10-03,Tottenham,Aston Villa,Tottenham,home,Aston Villa,away,RYAN MASON
+2021/2022,2021-08-14,Watford,Aston Villa,Watford,home,Aston Villa,away,CLAUDIO RANIERI
+2021/2022,2021-09-18,Norwich City,Watford,Watford,away,Norwich City,home,CLAUDIO RANIERI
+2018/2019,2019-04-15,Watford,Arsenal,Watford,home,Arsenal,away,HAYDEN MULLINS
+2018/2019,2018-09-29,Arsenal,Watford,Watford,away,Arsenal,home,JAVI GARCIA
+2016/2017,2017-01-14,Watford,Middlesbrough,Watford,home,Middlesbrough,away,MARCO SILVA
+2019/2020,2019-09-15,Watford,Arsenal,Watford,home,Arsenal,away,NIGEL PEARSON
+2019/2020,2020-01-12,Bournemouth,Watford,Watford,away,Bournemouth,home,NIGEL PEARSON
+2016/2017,2016-10-16,Middlesbrough,Watford,Watford,away,Middlesbrough,home,WALTER MAZZARRI
+2014/2015,2015-04-04,West Brom,QPR,West Brom,home,QPR,away,TONY PULIS
+2014/2015,2015-04-25,West Brom,Liverpool,West Brom,home,Liverpool,away,TONY PULIS
+2016/2017,2016-08-28,West Brom,Middlesbrough,West Brom,home,Middlesbrough,away,TONY PULIS
+2016/2017,2017-01-31,Middlesbrough,West Brom,West Brom,away,Middlesbrough,home,TONY PULIS
+2021/2022,2021-10-31,Aston Villa,West Ham,West Ham,away,Aston Villa,home,DAVID MOYES
+2018/2019,2018-08-25,Arsenal,West Ham,West Ham,away,Arsenal,home,MANUEL PELLEGRINI
+2018/2019,2019-01-12,West Ham,Arsenal,West Ham,home,Arsenal,away,MANUEL PELLEGRINI
+2019/2020,2019-12-09,West Ham,Arsenal,West Ham,home,Arsenal,away,MANUEL PELLEGRINI
+2014/2015,2015-04-25,QPR,West Ham,West Ham,away,QPR,home,SAM ALLARDYCE
+2016/2017,2016-10-01,West Ham,Middlesbrough,West Ham,home,Middlesbrough,away,SLAVEN BILIC
+2016/2017,2017-01-21,Middlesbrough,West Ham,West Ham,away,Middlesbrough,home,SLAVEN BILIC
+2021/2022,2021-10-16,Aston Villa,Wolves,Wolves,away,Aston Villa,home,BRUNO LAGE
+2018/2019,2018-11-11,Arsenal,Wolves,Wolves,away,Arsenal,home,NUNO ESPIRITO SANTO
+2018/2019,2019-04-24,Wolves,Arsenal,Wolves,home,Arsenal,away,NUNO ESPIRITO SANTO
+2019/2020,2019-11-02,Arsenal,Wolves,Wolves,away,Arsenal,home,NUNO ESPIRITO SANTO
+2019/2020,2020-06-24,Wolves,Bournemouth,Wolves,home,Bournemouth,away,NUNO ESPIRITO SANTO

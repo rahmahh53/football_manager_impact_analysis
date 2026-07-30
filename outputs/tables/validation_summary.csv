@@ -1,0 +1,10 @@
+check,value
+total_rows,7435
+total_columns,17
+unique_matches,3799
+missing_values,0
+exact_duplicates,0
+duplicate_team_matches,0
+incomplete_match_pairs,163
+window_logic_errors,0
+manager_date_violations,0
