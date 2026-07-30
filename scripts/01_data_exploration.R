@@ -6,24 +6,22 @@
 
 library(dplyr)
 library(readr)
-library(lubridate)
 library(here)
 
-input_path <- here("data", "raw_data", "epl_team_match_with_managers_windows.csv")
+input_path <- here("data", "raw_data", "new_epl_team_match_with_managers_windows.csv")
 validation_output_path <- here("outputs", "tables", "validation_summary.csv")
 incomplete_output_path <- here("outputs", "tables", "incomplete_matches.csv")
 season_output_path <- here("outputs", "tables", "match_seasons.csv")
 
 required_columns <- c("Date", "Season", "Team", "Opponent", "HomeFlag", "GF", "GA", "Manager", "ManagerStart", "ManagerEnd", "MatchNumMgr", "Window1", "Window2", "Window3")
 
-raw_data <- read_csv(input_path, show_col_types = FALSE)
+raw_data <- read_csv(input_path, col_types = cols(Date = col_date(format = "%Y-%m-%d"), ManagerStart = col_date(format = "%Y-%m-%d"), ManagerEnd = col_date(format = "%Y-%m-%d"), .default = col_guess()), show_col_types = FALSE)
 
 dim(raw_data)
 names(raw_data)
 str(raw_data)
 summary(raw_data)
 
-raw_data <- raw_data %>% mutate(Date=mdy(Date), ManagerStart = mdy(ManagerStart), ManagerEnd = mdy(ManagerEnd))
 raw_data <- raw_data %>% mutate(HomeTeam = if_else(HomeFlag == 1, Team, Opponent), AwayTeam = if_else(HomeFlag == 0, Team, Opponent), MatchID = paste(Season, Date, HomeTeam, AwayTeam, sep = "_"))
 
 missing_columns <- setdiff(required_columns, names(raw_data))
