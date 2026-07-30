@@ -4,27 +4,27 @@
 .Ruserdata
 .Rproj.user/
 
+# Locally installed R packages
+x86_64-pc-linux-gnu-library/
+
+# renv local package installation
+renv/library/
+renv/staging/
+renv/python/
+
 # Operating-system files
 .DS_Store
 Thumbs.db
 
-# IDE files
-.vscode/
-
-# Generated model objects
-outputs/models/*.rds
-outputs/models/*.RData
-
-# Temporary output
-*.html
+# Temporary files
 *.log
 *.tmp
+*~
 
-# Quarto-generated folders
+# Generated model objects
+outputs/models/*
+!outputs/models/.gitkeep
+
+# Quarto/R Markdown generated support folders
 analysis/*_files/
 analysis/.quarto/
-
-# renv local library
-renv/library/
-renv/staging/
-renv/python/
